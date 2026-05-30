@@ -6,7 +6,7 @@
 ## Tech Stack
 Python · Streamlit · Random Forest · XGBoost · Ridge Regression · KMeans · Scikit-learn
 
-#Demo Video
+## Demo Video
 https://www.youtube.com/watch?v=0Qcqzjn3sZA
 
 ## Features
