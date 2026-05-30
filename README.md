@@ -15,7 +15,7 @@ Python · Streamlit · Random Forest · XGBoost · Ridge Regression · KMeans ·
 ## How to Run
 ```bash
 pip install streamlit scikit-learn xgboost numpy
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## Model Accuracy
